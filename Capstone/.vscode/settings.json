@@ -1,0 +1,14 @@
+{
+    
+    "java.test.config": [
+        {
+        "name": "jacoco",
+        "vmargs": ["-javaagent:${workspaceFolder}/lib/org.jacoco.agent-0.8.11-runtime.jar=destfile=${workspaceFolder}/target/jacoco.exec,append=false"]
+        }
+        ],
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
