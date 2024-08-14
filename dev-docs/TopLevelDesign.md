@@ -89,7 +89,8 @@ Property class
   int getRent()
 
 	               
-![image](https://github.com/Duquesne-Spring-2024-COSC-481/Allison-Poole/assets/156346590/88fabeff-bc8c-4c91-942d-858bb998f37c)
+![image](https://github.com/user-attachments/assets/1421ef3a-a57e-41a0-8792-a00559ccf5d3)
+
 
             
 
